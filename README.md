@@ -1,5 +1,5 @@
 <h1>White Paper</h1>
-<h7>Published July 21, 2022 Pacific (Upgraded Jan 5 2023</h7>
+<h7>Published July 21, 2022 Pacific (Upgraded Jan 5 2023)</h7>
 <h3>Disclaimer</h3>
 <p>
 The details in the monoGames project are subject to change and can change at any time, especially when the game is being upgraded. Views expressed by other people connected to monoGames belong solely to the author and not anything to do with monoGames. People are allowed freedom of speech and monoGames cant stop people from free speech. We take no responsibility from being held responsible for damages that happen from anyone, website, bugs, app’s, hackers and whoever wishes to damage this game. We try to implement best practices to reduce this problem and we may implement a monoGames insurance token to mitigate the problem.
